@@ -26,9 +26,13 @@ This project focuses on building a **Power BI dashboard** to analyze business pe
 
 ## 📌 **Tasks Completed**
 ✅ Created key business metrics based on the provided metric list.
+
 ✅ Designed an interactive Power BI dashboard following stakeholder mock-up.
+
 ✅ Discovered additional insights beyond the given requirements.
+
 ✅ Developed custom **DAX formulas** for in-depth analysis.
+
 ✅ Optimized data models for better performance.
 
 ## 📷 **Project Screenshots**
